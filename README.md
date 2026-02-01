@@ -10,5 +10,11 @@ As the result, RoboCup soccer simulations have changed significantly over the ye
 Thanks to the flexibility of the Spark system, these transitions were achieved with little changes to the simulator’s core architecture.
 In this project we describe the recent development of RoboCup, which make the simulation possible upto 11 vs. 11 humanoid robot soccer games in real time.
 After that, we will describe the development of physical robots using Choregraph to prepare the two teams for real playground.
+
 <img width="1087" height="515" alt="Script_Python" src="https://github.com/user-attachments/assets/7a3432f7-6a8f-4b69-bd70-8fc98a1b497b" />
 
+Key Activities and Uses for SimSpark:
+•	RoboCup Simulation League Participation: The primary use is developing AI for 3D robotic soccer teams, simulating robot physics, and sensor data.
+•	Robotics & AI Research: It is used to simulate physical agents in a 3D environment, allowing for testing control algorithms, machine learning models, and autonomous behaviors.
+•	Running the Simulator: SimSpark is available for Linux, allowing users to run the simulation directly without complex installation.
+•	Scenario Development: Users can create custom 3D environments and scenarios for multiagent, physical simulations, kinematics simulation and AI (RL) inegration. 
