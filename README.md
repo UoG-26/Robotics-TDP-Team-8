@@ -1,4 +1,4 @@
-Introduction: implementation of RoboCup Soccer Simulator
+**Introduction:** implementation of RoboCup Soccer Simulator
 
 The development on robots may be severely limited by the constrained resources.
 This is especially true in the research of multi-robot systems in areas such as
@@ -13,8 +13,8 @@ After that, we will describe the development of physical robots using Choregraph
 
 <img width="1087" height="515" alt="Script_Python" src="https://github.com/user-attachments/assets/7a3432f7-6a8f-4b69-bd70-8fc98a1b497b" />
 
-Key Activities and Uses for SimSpark:
-•	RoboCup Simulation League Participation: The primary use is developing AI for 3D robotic soccer teams, simulating robot physics, and sensor data.
-•	Robotics & AI Research: It is used to simulate physical agents in a 3D environment, allowing for testing control algorithms, machine learning models, and autonomous behaviors.
-•	Running the Simulator: SimSpark is available for Linux, allowing users to run the simulation directly without complex installation.
-•	Scenario Development: Users can create custom 3D environments and scenarios for multiagent, physical simulations, kinematics simulation and AI (RL) inegration. 
+**Key Activities and Uses for SimSpark:**
++1	RoboCup Simulation League Participation: The primary use is developing AI for 3D robotic soccer teams, simulating robot physics, and sensor data.
++2	Robotics & AI Research: It is used to simulate physical agents in a 3D environment, allowing for testing control algorithms, machine learning models, and autonomous behaviors.
++3	Running the Simulator: SimSpark is available for Linux, allowing users to run the simulation directly without complex installation.
++4	Scenario Development: Users can create custom 3D environments and scenarios for multiagent, physical simulations, kinematics simulation and AI (RL) inegration. 
