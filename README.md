@@ -21,3 +21,7 @@ After that, we will describe the development of physical robots using **Choregra
 
 For testing the physical Humanoid Robots, we have to use the python script functions to Choregraph as a linking process for creating physical and well tested movements in a given workspace.
 **SimSpark** allow to develop major required motions, team communication, path finding as well as enforce AI by leveraging Reinforcement Learning for Working Robots. 
+
+
+<img width="172" height="380" alt="Code" src="https://github.com/user-attachments/assets/4335e22e-840a-4d54-bc9c-ec19b3b5815e" />
+
