@@ -1,9 +1,0 @@
-{Tue 22:17:10 Step:6} Server_Comm.py: Received a new packet while on world.update()!
-{Tue 22:20:43 Step:10546} World_Parser.py: Received field line with NaNs [  nan   nan   nan 19.19  1.33 60.05]
-{Tue 22:22:11 Step:14893} World_Parser.py: Received field line with NaNs [   nan    nan    nan  19.74 -13.18  59.32]
-{Tue 22:39:31 Step:66202} World_Parser.py: Received field line with NaNs [  nan   nan   nan 24.15 -6.36 59.91]
-{Tue 22:43:30 Step:77953} World_Parser.py: Received field line with NaNs [  nan   nan   nan 24.92  0.85 60.08]
-{Tue 22:54:37 Step:110848} World_Parser.py: Received field line with NaNs [2.406e+01 4.000e-02 5.997e+01       nan       nan       nan]
-{Tue 22:56:20 Step:115945} World_Parser.py: Received field line with NaNs [  nan   nan   nan 25.67  2.67 59.99]
-{Tue 22:59:25 Step:125047} World_Parser.py: Received field line with NaNs [2.391e+01 3.000e-02 5.860e+01       nan       nan       nan]
-{Tue 23:02:42 Step:134833} World_Parser.py: Received field line with NaNs [  nan   nan   nan 26.55  7.04 59.78]

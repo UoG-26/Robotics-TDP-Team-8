@@ -1,5 +1,0 @@
-{Mon 01:05:33 Step:1} Server_Comm.py: Received a new packet while on world.update()!
-{Mon 01:05:33 Step:14} Server_Comm.py: The agent lost 12 consecutive packets! Is syncmode disabled?
-{Mon 01:05:33 Step:14} Server_Comm.py: Received a new packet while on world.update()!
-{Mon 01:05:33 Step:16} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
-{Mon 01:05:33 Step:20} Server_Comm.py: Received a new packet while thinking!
