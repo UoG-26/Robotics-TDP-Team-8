@@ -11,4 +11,4 @@ Thanks to the flexibility of the Spark system, these transitions were achieved w
 In this project we describe the recent development of RoboCup, which make the simulation possible upto 11 vs. 11 humanoid robot soccer games in real time.
 After that, we will describe the development of physical robots using Choregraph to prepare the two teams for real playground.
 
-<img width="1476" height="837" alt="image" src="https://github.com/user-attachments/assets/e668bda1-1f0f-46c7-9528-75b1b2104920" />
+<img width="1180" height="669" alt="image" src="https://github.com/user-attachments/assets/e668bda1-1f0f-46c7-9528-75b1b2104920" />
