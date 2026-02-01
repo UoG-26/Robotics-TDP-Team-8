@@ -1,0 +1,18 @@
+
+NOTE: for help run "python /home/lingyuguo7_/FCPCodebase/./Run_Player.py -h"
+===================================================================
+       Argument        |  Default at /config.json  |    Active     
+-----------------------+---------------------------+---------------
+  Server Hostname/IP   |         localhost         |   localhost   
+  Agent Port           |           3100            |     3100      
+  Monitor Port         |           3200            |     3200      
+  Team Name            |        FCPortugal         |  FCPortugal   
+  Uniform Number       |             1             |       9       
+  Robot Type           |             1             |       1       
+  Penalty Shootout     |             0             |       0       
+  magmaFatProxy        |             0             |       0       
+  Drawing Hostname/IP  |         localhost         |  172.23.64.1  
+  Debug Mode           |             1             |       1       
+===================================================================
+ Connected agent 9 ('127.0.0.1', 56634)
+Connecting to server's monitor port at localhost:3200.
