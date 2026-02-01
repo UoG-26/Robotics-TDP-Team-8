@@ -1,0 +1,629 @@
+{Thu 00:28:42 Step:82} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:42 Step:97} Server_Comm.py: Received a new packet while on world.update()!
+{Thu 00:28:43 Step:103} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:105} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:107} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:109} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:109} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:113} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Thu 00:28:43 Step:113} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:115} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:115} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:117} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:117} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:120} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:43 Step:120} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:122} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:122} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:124} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:124} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:126} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:126} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:128} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:128} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:130} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:130} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:131} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:133} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:133} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:135} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:135} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:137} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:137} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:139} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:139} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:140} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:142} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:142} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:144} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:144} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:146} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:146} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:148} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:43 Step:148} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:149} Server_Comm.py: Received a new packet while on world.update()!
+{Thu 00:28:43 Step:150} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:43 Step:151} Server_Comm.py: Received a new packet while on world.update()!
+{Thu 00:28:44 Step:153} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:154} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:157} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:44 Step:158} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:160} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:44 Step:160} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:163} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:44 Step:163} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:166} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:44 Step:167} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:171} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Thu 00:28:44 Step:171} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:172} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:175} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:44 Step:176} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:178} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:44 Step:179} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:181} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:44 Step:182} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:184} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:44 Step:184} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:186} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:44 Step:186} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:187} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:189} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:44 Step:189} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:190} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:193} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:44 Step:194} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:196} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:44 Step:196} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:198} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:44 Step:198} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:44 Step:199} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:202} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:45 Step:203} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:205} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:205} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:207} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:207} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:209} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:209} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:211} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:211} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:212} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:214} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:214} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:215} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:217} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:217} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:218} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:220} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:220} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:222} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:222} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:224} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:224} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:225} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:227} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:227} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:229} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:229} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:230} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:232} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:232} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:234} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:234} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:236} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:236} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:237} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:239} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:239} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:240} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:242} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:242} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:244} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:244} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:245} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:247} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:247} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:249} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:45 Step:249} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:45 Step:251} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:251} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:252} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:254} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:254} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:256} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:256} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:257} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:259} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:259} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:260} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:262} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:262} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:264} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:264} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:266} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:266} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:267} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:269} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:269} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:270} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:272} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:272} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:273} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:275} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:275} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:276} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:278} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:278} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:279} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:281} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:281} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:283} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:283} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:284} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:286} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:286} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:287} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:289} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:289} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:290} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:292} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:292} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:294} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:294} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:296} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:296} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:298} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:46 Step:298} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:299} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:46 Step:301} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:301} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:303} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:303} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:305} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:305} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:307} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:307} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:309} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:309} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:311} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:311} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:313} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:313} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:315} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:315} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:317} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:317} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:319} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:319} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:321} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:321} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:322} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:324} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:324} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:326} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:326} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:327} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:329} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:329} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:331} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:331} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:333} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:333} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:335} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:335} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:337} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:337} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:338} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:340} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:340} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:342} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:342} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:344} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:344} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:346} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:346} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:347} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:47 Step:349} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:47 Step:349} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:350} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:352} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:352} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:354} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:354} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:356} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:356} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:358} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:358} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:359} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:361} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:361} Server_Comm.py: Received a new packet while on world.update()!
+{Thu 00:28:48 Step:362} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:364} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:364} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:365} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:367} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:367} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:368} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:370} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:370} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:372} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:372} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:373} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:375} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:375} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:376} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:378} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:378} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:379} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:381} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:381} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:383} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:383} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:384} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:386} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:386} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:387} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:389} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:389} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:391} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:391} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:392} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:394} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:394} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:395} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:397} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:397} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:48 Step:399} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:48 Step:399} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:400} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:402} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:402} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:404} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:404} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:406} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:406} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:407} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:409} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:409} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:412} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:49 Step:412} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:413} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:415} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:415} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:416} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:418} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:418} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:420} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:421} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:424} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:427} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:430} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:431} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:433} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:434} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:436} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:436} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:439} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:49 Step:442} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:443} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:49 Step:445} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:49 Step:448} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:451} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:454} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:457} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:460} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:463} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:464} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:50 Step:466} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:467} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:50 Step:469} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:470} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:50 Step:472} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:472} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:50 Step:474} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:474} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:50 Step:475} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:50 Step:478} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:50 Step:481} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:484} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:485} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:50 Step:487} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:490} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:491} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:50 Step:493} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:496} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:50 Step:497} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:50 Step:499} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:51 Step:500} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:502} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:51 Step:503} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:505} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:51 Step:505} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:508} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:51 Step:508} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:511} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:51 Step:512} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:514} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:51 Step:514} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:517} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:51 Step:517} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:520} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:51 Step:521} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:523} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:51 Step:523} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:525} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:51 Step:525} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:526} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:529} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:51 Step:529} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:532} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:51 Step:533} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:535} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:51 Step:535} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:538} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:51 Step:538} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:540} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:51 Step:540} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:542} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:51 Step:542} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:545} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:51 Step:545} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:547} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:51 Step:547} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:51 Step:549} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:52 Step:549} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:551} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:52 Step:551} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:554} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:52 Step:554} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:555} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:557} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:52 Step:557} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:558} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:560} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:52 Step:560} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:561} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:563} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:52 Step:563} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:565} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:52 Step:565} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:566} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:568} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:52 Step:569} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:572} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:574} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:52 Step:577} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:52 Step:579} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:52 Step:583} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:52 Step:586} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:52 Step:589} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:53 Step:601} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:53 Step:603} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:53 Step:633} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:53 Step:649} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:651} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:654} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:658} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:54 Step:660} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:661} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:663} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:54 Step:663} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:664} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:666} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:54 Step:666} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:668} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:670} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:54 Step:671} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:673} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:54 Step:674} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:676} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:54 Step:676} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:678} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:54 Step:678} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:680} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:54 Step:680} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:682} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:54 Step:682} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:683} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:685} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:54 Step:685} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:687} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:54 Step:687} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:689} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:54 Step:690} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:691} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:693} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:54 Step:693} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:694} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:54 Step:697} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:54 Step:698} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:55 Step:700} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:55 Step:701} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:55 Step:703} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:55 Step:703} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:55 Step:705} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:55 Step:705} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:55 Step:706} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:55 Step:708} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:55 Step:708} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:55 Step:709} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:55 Step:712} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:28:55 Step:715} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:55 Step:717} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:55 Step:721} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:55 Step:723} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:55 Step:727} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:55 Step:729} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:55 Step:732} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:55 Step:735} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:55 Step:738} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:58 Step:852} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:58 Step:854} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:58 Step:871} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:58 Step:873} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:28:58 Step:894} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:28:58 Step:896} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:00 Step:953} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:00 Step:955} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:00 Step:957} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:00 Step:959} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:00 Step:961} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:00 Step:962} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:00 Step:964} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:00 Step:965} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:00 Step:967} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:00 Step:968} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:00 Step:970} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:00 Step:971} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:00 Step:973} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:00 Step:976} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:00 Step:977} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:00 Step:979} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:00 Step:982} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:00 Step:985} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:00 Step:985} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:00 Step:986} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:00 Step:988} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:00 Step:989} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:00 Step:991} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:00 Step:991} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:00 Step:994} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Thu 00:29:00 Step:995} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:00 Step:997} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:01 Step:998} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:01 Step:1000} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:01 Step:1000} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:01 Step:1002} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:01 Step:1003} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:01 Step:1005} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:01 Step:1006} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:01 Step:1008} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:01 Step:1011} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:01 Step:1012} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:01 Step:1014} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:01 Step:1017} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:01 Step:1019} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:01 Step:1020} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:01 Step:1022} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:01 Step:1026} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:01 Step:1026} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:01 Step:1029} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:01 Step:1031} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:01 Step:1033} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:01 Step:1035} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:01 Step:1043} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:01 Step:1045} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:02 Step:1072} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:02 Step:1074} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:02 Step:1077} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:02 Step:1081} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:02 Step:1083} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:02 Step:1087} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:02 Step:1089} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:02 Step:1093} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:02 Step:1095} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:03 Step:1098} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:03 Step:1100} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:03 Step:1102} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1105} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1108} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1111} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1114} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1115} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:03 Step:1117} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1118} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:03 Step:1120} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1121} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:03 Step:1123} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1123} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:03 Step:1125} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1125} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:03 Step:1127} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1127} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:03 Step:1128} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:03 Step:1130} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1131} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:03 Step:1135} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1138} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1141} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:03 Step:1143} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:03 Step:1145} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:04 Step:1147} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:04 Step:1149} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:04 Step:1149} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:04 Step:1151} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:04 Step:1155} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:04 Step:1157} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:04 Step:1164} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:04 Step:1166} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:06 Step:1283} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:06 Step:1285} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:06 Step:1293} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:06 Step:1295} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:07 Step:1304} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:07 Step:1306} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:09 Step:1416} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:09 Step:1418} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:09 Step:1421} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:09 Step:1423} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:09 Step:1427} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:09 Step:1429} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:09 Step:1434} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:09 Step:1436} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:09 Step:1439} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:09 Step:1441} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:09 Step:1443} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:09 Step:1445} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1446} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1448} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1449} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1451} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1452} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1454} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1456} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1458} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1460} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1462} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1463} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1465} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1467} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1469} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1471} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1473} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1476} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1478} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1480} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1482} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1484} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1486} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1487} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1489} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1491} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1493} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:10 Step:1494} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:10 Step:1496} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:11 Step:1499} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:11 Step:1501} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:11 Step:1502} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:11 Step:1504} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:11 Step:1507} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:11 Step:1510} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:11 Step:1512} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:11 Step:1516} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:11 Step:1518} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:11 Step:1521} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:11 Step:1524} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:11 Step:1528} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:11 Step:1537} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:11 Step:1539} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:11 Step:1542} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:11 Step:1545} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:12 Step:1548} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:12 Step:1551} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:12 Step:1554} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:12 Step:1557} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:12 Step:1561} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:12 Step:1564} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:12 Step:1567} Server_Comm.py: Received a new packet while thinking!
+{Thu 00:29:12 Step:1569} Server_Comm.py: Received a new packet while thinking!

@@ -1,0 +1,62 @@
+{Mon 00:03:17 Step:370} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:18 Step:424} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:21 Step:580} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:25 Step:774} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:25 Step:777} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:27 Step:871} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:27 Step:874} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 00:03:28 Step:922} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:30 Step:1032} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:31 Step:1084} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:32 Step:1125} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:34 Step:1242} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:38 Step:1432} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:39 Step:1482} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:40 Step:1510} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:40 Step:1522} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:40 Step:1530} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:41 Step:1545} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:43 Step:1660} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:43 Step:1668} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:43 Step:1677} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:43 Step:1680} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:45 Step:1756} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:45 Step:1780} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:46 Step:1806} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:48 Step:1920} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:48 Step:1932} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:03:52 Step:2068} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 00:04:35 Step:4197} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:04:35 Step:4200} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 00:04:38 Step:4345} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:04:43 Step:4561} World_Parser.py: Received field line with NaNs [  0.56  38.95 -39.43    nan    nan    nan]
+{Mon 00:04:44 Step:4656} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:04:51 Step:4996} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:04:55 Step:5157} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:04:56 Step:5224} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:04:57 Step:5268} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:05:01 Step:5442} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:05:01 Step:5465} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:05:01 Step:5467} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 00:05:01 Step:5467} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 00:05:19 Step:6349} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:05:31 Step:6936} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:05:43 Step:7492} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:05:51 Step:7897} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:06 Step:8635} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:07 Step:8706} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:07 Step:8710} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:13 Step:8976} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:18 Step:9214} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:18 Step:9216} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:18 Step:9219} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:19 Step:9245} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:19 Step:9249} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:19 Step:9279} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:20 Step:9282} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:22 Step:9420} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:23 Step:9429} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:23 Step:9432} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:23 Step:9435} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:23 Step:9461} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:06:23 Step:9463} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?

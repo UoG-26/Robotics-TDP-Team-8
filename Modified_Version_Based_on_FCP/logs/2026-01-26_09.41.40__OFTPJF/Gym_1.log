@@ -1,0 +1,12 @@
+{Mon 09:41:40 Step:4} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 09:41:40 Step:4} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 09:41:40 Step:19} Server_Comm.py: The agent lost 14 consecutive packets! Is syncmode disabled?
+{Mon 09:41:40 Step:19} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 09:41:40 Step:58} Server_Comm.py: The agent lost 38 consecutive packets! Is syncmode disabled?
+{Mon 09:41:40 Step:58} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 09:41:40 Step:64} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 09:41:40 Step:68} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 09:41:40 Step:70} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 09:41:40 Step:74} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 09:41:40 Step:78} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 09:41:42 Step:78} Server_Comm.py: Received a new packet while thinking!

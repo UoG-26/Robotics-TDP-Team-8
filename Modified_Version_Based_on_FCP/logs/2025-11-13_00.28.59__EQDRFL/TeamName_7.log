@@ -1,0 +1,5 @@
+{Thu 00:28:59 Step:7} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Thu 00:29:30 Step:1468} World_Parser.py: Received field line with NaNs [   nan    nan    nan   2.88 -59.99   5.4 ]
+{Thu 00:29:34 Step:1663} World_Parser.py: Received field line with NaNs [  1.86 -50.12   5.63    nan    nan    nan]
+{Thu 00:33:27 Step:12913} World_Parser.py: Received field line with NaNs [ 2.83 40.84 19.21   nan   nan   nan]
+{Thu 00:43:10 Step:40516} World_Parser.py: Received field line with NaNs [10.67 56.46 18.59   nan   nan   nan]

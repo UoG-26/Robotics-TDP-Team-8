@@ -1,0 +1,421 @@
+{Sun 13:38:19 Step:3} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:19 Step:3} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:19 Step:17} Server_Comm.py: The agent lost 13 consecutive packets! Is syncmode disabled?
+{Sun 13:38:19 Step:17} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:19 Step:21} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Sun 13:38:19 Step:21} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:19 Step:26} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Sun 13:38:19 Step:26} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:19 Step:28} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:19 Step:31} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:19 Step:34} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:32 Step:35} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:34 Step:6387} Server_Comm.py: The agent lost 6351 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6387} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:34 Step:6396} Server_Comm.py: The agent lost 8 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6400} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6403} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6408} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6411} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6416} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6419} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6425} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6431} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6436} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6440} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6443} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6446} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6448} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:34 Step:6450} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:34 Step:6452} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:34 Step:6454} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:34 Step:6456} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:34 Step:6459} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6462} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:34 Step:6464} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:6464} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:36 Step:8005} Server_Comm.py: The agent lost 1540 consecutive packets! Is syncmode disabled?
+{Sun 13:38:36 Step:8005} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:36 Step:8008} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:36 Step:8008} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:36 Step:8009} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1895.91))(GS (sl 0) (sr 0) (t 31.44) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.00 6.04 -1.77))(HJ (n hj1) (ax 8.18))(HJ (n hj2) (ax 0.00))(See (G1L (pol 1.75 37.40 34.57)) (G2L (pol 1.75 -55.18 33.33)) (mypos -13.81 0.01 0.06) (myorien 148.63) (ballpos -12.80 -0.11 0.04))(HJ (n raj1) (ax -120.38))(HJ (n raj2) (ax -0.00))(HJ (n raj3) (ax 119.73))(HJ (n raj4) (ax 0.00))(HJ (n laj1) (ax -120.38))(HJ (n laj2) (ax 0.00))(HJ (n laj3) (ax -119.73))(HJ (n laj4) (ax -0.00))(HJ (n rlj1) (ax 0.00))(HJ (n rlj2) (ax 0.00))(HJ (n rlj3) (ax -23.91))(HJ (n rlj4) (ax -2.81))(HJ (n rlj5) (ax -45.65))(HJ (n rlj6) (ax 0.00))(HJ (n llj1) (ax 0.00))(HJ (n llj2) (ax 0.00))(HJ (n llj3) (ax -23.91))(HJ (n llj4) (ax -2.81))(HJ (n llj5) (ax -45.65))(HJ (n llj6) (ax -0.00))
+{Sun 13:38:36 Step:8009} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:36 Step:8010} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1895.93))(GS (sl 0) (sr 0) (t 31.46) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a 0.01 10.11 -3.05))(HJ (n hj1) (ax 8.19))(HJ (n hj2) (ax 0.00))(HJ (n raj1) (ax -120.08))(HJ (n raj2) (ax -0.00))(HJ (n raj3) (ax 120.24))(HJ (n raj4) (ax 0.00))(HJ (n laj1) (ax -120.08))(HJ (n laj2) (ax 0.00))(HJ (n laj3) (ax -120.24))(HJ (n laj4) (ax -0.00))(HJ (n rlj1) (ax 0.00))(HJ (n rlj2) (ax 0.00))(HJ (n rlj3) (ax -26.50))(HJ (n rlj4) (ax 2.42))(HJ (n rlj5) (ax -45.13))(HJ (n rlj6) (ax 0.00))(HJ (n llj1) (ax 0.00))(HJ (n llj2) (ax 0.00))(HJ (n llj3) (ax -26.50))(HJ (n llj4) (ax 2.42))(HJ (n llj5) (ax -45.13))(HJ (n llj6) (ax -0.00))
+{Sun 13:38:36 Step:8011} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1895.95))(GS (sl 0) (sr 0) (t 31.48) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.00 9.51 -2.40))(HJ (n hj1) (ax 8.19))(HJ (n hj2) (ax 0.00))(See (mypos -13.81 0.01 0.99) (myorien 148.09) (ballpos -12.80 -0.11 0.04))(HJ (n raj1) (ax -120.02))(HJ (n raj2) (ax -0.00))(HJ (n raj3) (ax 120.05))(HJ (n raj4) (ax 0.00))(HJ (n laj1) (ax -120.02))(HJ (n laj2) (ax 0.00))(HJ (n laj3) (ax -120.05))(HJ (n laj4) (ax -0.00))(HJ (n rlj1) (ax 0.00))(HJ (n rlj2) (ax 0.00))(HJ (n rlj3) (ax -25.30))(HJ (n rlj4) (ax 1.28))(HJ (n rlj5) (ax -45.03))(HJ (n rlj6) (ax 0.00))(HJ (n llj1) (ax 0.00))(HJ (n llj2) (ax 0.00))(HJ (n llj3) (ax -25.30))(HJ (n llj4) (ax 1.28))(HJ (n llj5) (ax -45.03))(HJ (n llj6) (ax -0.00))
+{Sun 13:38:36 Step:8011} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8011} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:36 Step:8012} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1895.97))(GS (sl 0) (sr 0) (t 31.50) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.00 9.53 -2.34))(HJ (n hj1) (ax 8.20))(HJ (n hj2) (ax 0.00))(HJ (n raj1) (ax -120.00))(HJ (n raj2) (ax -0.00))(HJ (n raj3) (ax 120.01))(HJ (n raj4) (ax 0.00))(HJ (n laj1) (ax -120.00))(HJ (n laj2) (ax 0.00))(HJ (n laj3) (ax -120.01))(HJ (n laj4) (ax -0.00))(HJ (n rlj1) (ax 0.00))(HJ (n rlj2) (ax 0.00))(HJ (n rlj3) (ax -25.06))(HJ (n rlj4) (ax 1.06))(HJ (n rlj5) (ax -45.01))(HJ (n rlj6) (ax 0.00))(HJ (n llj1) (ax 0.00))(HJ (n llj2) (ax 0.00))(HJ (n llj3) (ax -25.06))(HJ (n llj4) (ax 1.06))(HJ (n llj5) (ax -45.01))(HJ (n llj6) (ax -0.00))
+{Sun 13:38:36 Step:8013} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1895.99))(GS (sl 0) (sr 0) (t 31.52) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.00 9.53 -2.32))(HJ (n hj1) (ax 8.21))(HJ (n hj2) (ax 0.00))(See (mypos -13.81 0.01 1.01) (myorien 147.87) (ballpos -12.80 -0.11 0.04))(HJ (n raj1) (ax -120.00))(HJ (n raj2) (ax -0.00))(HJ (n raj3) (ax 120.00))(HJ (n raj4) (ax 0.00))(HJ (n laj1) (ax -120.00))(HJ (n laj2) (ax 0.00))(HJ (n laj3) (ax -120.00))(HJ (n laj4) (ax -0.00))(HJ (n rlj1) (ax 0.00))(HJ (n rlj2) (ax 0.00))(HJ (n rlj3) (ax -25.01))(HJ (n rlj4) (ax 1.01))(HJ (n rlj5) (ax -45.00))(HJ (n rlj6) (ax 0.00))(HJ (n llj1) (ax 0.00))(HJ (n llj2) (ax 0.00))(HJ (n llj3) (ax -25.01))(HJ (n llj4) (ax 1.01))(HJ (n llj5) (ax -45.00))(HJ (n llj6) (ax -0.00))
+{Sun 13:38:36 Step:8013} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8013} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:36 Step:8014} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.01))(GS (sl 0) (sr 0) (t 31.54) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.00 9.53 -2.32))(HJ (n hj1) (ax 8.21))(HJ (n hj2) (ax 0.00))(HJ (n raj1) (ax -120.00))(HJ (n raj2) (ax -0.00))(HJ (n raj3) (ax 120.00))(HJ (n raj4) (ax 0.00))(HJ (n laj1) (ax -120.00))(HJ (n laj2) (ax 0.00))(HJ (n laj3) (ax -120.00))(HJ (n laj4) (ax -0.00))(HJ (n rlj1) (ax 0.00))(HJ (n rlj2) (ax 0.00))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -45.00))(HJ (n rlj6) (ax 0.00))(HJ (n llj1) (ax 0.00))(HJ (n llj2) (ax 0.00))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax 1.00))(HJ (n llj5) (ax -45.00))(HJ (n llj6) (ax -0.00))
+{Sun 13:38:36 Step:8015} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.03))(GS (sl 0) (sr 0) (t 31.56) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.00 9.53 -2.32))(HJ (n hj1) (ax 8.22))(HJ (n hj2) (ax 0.00))(See (mypos -13.81 0.01 1.03) (myorien 147.82) (ballpos -12.80 -0.11 0.04))(HJ (n raj1) (ax -120.00))(HJ (n raj2) (ax -0.00))(HJ (n raj3) (ax 120.00))(HJ (n raj4) (ax 0.00))(HJ (n laj1) (ax -120.00))(HJ (n laj2) (ax 0.00))(HJ (n laj3) (ax -120.00))(HJ (n laj4) (ax -0.00))(HJ (n rlj1) (ax 0.00))(HJ (n rlj2) (ax 0.00))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -45.00))(HJ (n rlj6) (ax 0.00))(HJ (n llj1) (ax 0.00))(HJ (n llj2) (ax 0.00))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax 1.00))(HJ (n llj5) (ax -45.00))(HJ (n llj6) (ax -0.00))
+{Sun 13:38:36 Step:8016} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.05))(GS (sl 0) (sr 0) (t 31.58) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.00 9.53 -2.32))(HJ (n hj1) (ax 1.20))(HJ (n hj2) (ax 7.00))(HJ (n raj1) (ax -120.00))(HJ (n raj2) (ax -6.69))(HJ (n raj3) (ax 120.00))(HJ (n raj4) (ax 0.00))(HJ (n laj1) (ax -120.00))(HJ (n laj2) (ax 0.40))(HJ (n laj3) (ax -120.00))(HJ (n laj4) (ax -0.60))(HJ (n rlj1) (ax 0.00))(HJ (n rlj2) (ax -7.02))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -45.00))(HJ (n rlj6) (ax -0.48))(HJ (n llj1) (ax 0.17))(HJ (n llj2) (ax 1.50))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax 1.00))(HJ (n llj5) (ax -45.00))(HJ (n llj6) (ax -7.03))
+{Sun 13:38:36 Step:8017} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.07))(GS (sl 0) (sr 0) (t 31.60) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.12 9.53 -2.32))(HJ (n hj1) (ax -5.82))(HJ (n hj2) (ax 14.01))(See (mypos -13.81 0.00 1.05) (myorien -163.96) (ballpos -12.80 -0.11 0.04))(HJ (n raj1) (ax -120.00))(HJ (n raj2) (ax -13.39))(HJ (n raj3) (ax 120.00))(HJ (n raj4) (ax 0.00))(HJ (n laj1) (ax -120.00))(HJ (n laj2) (ax 0.81))(HJ (n laj3) (ax -120.00))(HJ (n laj4) (ax -1.20))(HJ (n rlj1) (ax 0.00))(HJ (n rlj2) (ax -14.05))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -45.00))(HJ (n rlj6) (ax -0.97))(HJ (n llj1) (ax 0.35))(HJ (n llj2) (ax 2.99))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax 1.00))(HJ (n llj5) (ax -45.00))(HJ (n llj6) (ax -14.05))
+{Sun 13:38:36 Step:8018} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.09))(GS (sl 0) (sr 0) (t 31.62) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.20 9.53 -2.33))(HJ (n hj1) (ax -12.84))(HJ (n hj2) (ax 13.25))(HJ (n raj1) (ax -120.00))(HJ (n raj2) (ax -13.08))(HJ (n raj3) (ax 120.00))(HJ (n raj4) (ax -1.00))(HJ (n laj1) (ax -120.00))(HJ (n laj2) (ax 2.23))(HJ (n laj3) (ax -120.00))(HJ (n laj4) (ax -1.73))(HJ (n rlj1) (ax -3.87))(HJ (n rlj2) (ax -15.01))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -45.00))(HJ (n rlj6) (ax -0.50))(HJ (n llj1) (ax 1.17))(HJ (n llj2) (ax 1.07))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax 1.00))(HJ (n llj5) (ax -45.00))(HJ (n llj6) (ax -18.86))
+{Sun 13:38:36 Step:8018} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8019} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.11))(GS (sl 0) (sr 0) (t 31.64) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.32 9.54 -2.27))(HJ (n hj1) (ax -12.84))(HJ (n hj2) (ax 13.25))(See (mypos -13.81 0.00 1.07) (myorien -148.83) (ballpos -12.80 -0.11 0.04))(HJ (n raj1) (ax -120.00))(HJ (n raj2) (ax -13.08))(HJ (n raj3) (ax 120.00))(HJ (n raj4) (ax -1.00))(HJ (n laj1) (ax -120.00))(HJ (n laj2) (ax 2.23))(HJ (n laj3) (ax -120.00))(HJ (n laj4) (ax -1.73))(HJ (n rlj1) (ax -3.87))(HJ (n rlj2) (ax -15.01))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -45.00))(HJ (n rlj6) (ax -0.50))(HJ (n llj1) (ax 1.17))(HJ (n llj2) (ax 1.07))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax 1.00))(HJ (n llj5) (ax -45.00))(HJ (n llj6) (ax -18.86))
+{Sun 13:38:36 Step:8020} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.13))(GS (sl 0) (sr 0) (t 31.66) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.32 9.54 -2.27))(HJ (n hj1) (ax -19.85))(HJ (n hj2) (ax 11.45))(HJ (n raj1) (ax -117.79))(HJ (n raj2) (ax -11.82))(HJ (n raj3) (ax 112.97))(HJ (n raj4) (ax -1.00))(HJ (n laj1) (ax -120.00))(HJ (n laj2) (ax 3.79))(HJ (n laj3) (ax -112.99))(HJ (n laj4) (ax -2.24))(HJ (n rlj1) (ax -10.89))(HJ (n rlj2) (ax -12.85))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -45.00))(HJ (n rlj6) (ax 0.09))(HJ (n llj1) (ax 1.03))(HJ (n llj2) (ax -1.32))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax 1.00))(HJ (n llj5) (ax -40.32))(HJ (n llj6) (ax -16.58))
+{Sun 13:38:36 Step:8020} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8021} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.15))(GS (sl 0) (sr 0) (t 31.68) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.57 9.57 -2.08))(HJ (n hj1) (ax -26.86))(HJ (n hj2) (ax 9.66))(See (G2L (pol 1.61 -52.24 44.27)) (mypos -13.81 0.00 1.09) (myorien -121.82) (ballpos -12.80 -0.11 0.04))(HJ (n raj1) (ax -110.77))(HJ (n raj2) (ax -10.57))(HJ (n raj3) (ax 105.97))(HJ (n raj4) (ax -1.00))(HJ (n laj1) (ax -120.00))(HJ (n laj2) (ax 5.35))(HJ (n laj3) (ax -105.98))(HJ (n laj4) (ax -2.76))(HJ (n rlj1) (ax -17.91))(HJ (n rlj2) (ax -10.70))(HJ (n rlj3) (ax -27.58))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -38.01))(HJ (n rlj6) (ax 0.68))(HJ (n llj1) (ax 1.01))(HJ (n llj2) (ax -3.71))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax 1.00))(HJ (n llj5) (ax -33.30))(HJ (n llj6) (ax -14.31))
+{Sun 13:38:36 Step:8022} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.17))(GS (sl 0) (sr 0) (t 31.70) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.91 9.57 -1.94))(HJ (n hj1) (ax -28.60))(HJ (n hj2) (ax 2.68))(HJ (n raj1) (ax -103.76))(HJ (n raj2) (ax -3.61))(HJ (n raj3) (ax 98.98))(HJ (n raj4) (ax -0.50))(HJ (n laj1) (ax -112.98))(HJ (n laj2) (ax 8.04))(HJ (n laj3) (ax -99.00))(HJ (n laj4) (ax -3.18))(HJ (n rlj1) (ax -24.91))(HJ (n rlj2) (ax -3.78))(HJ (n rlj3) (ax -25.54))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -31.08))(HJ (n rlj6) (ax 2.35))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -9.96))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax -6.00))(HJ (n llj5) (ax -26.33))(HJ (n llj6) (ax -7.35))
+{Sun 13:38:36 Step:8022} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8023} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.19))(GS (sl 0) (sr 0) (t 31.72) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -1.64 9.53 -1.66))(HJ (n hj1) (ax -30.35))(HJ (n hj2) (ax -4.38))(See (G2L (pol 1.62 -58.31 49.32)) (F2L (pol 10.14 -51.86 8.22)) (mypos -13.81 0.01 1.12) (myorien -93.86) (ballpos -12.80 -0.11 0.04) (L (pol 10.14 -51.78 8.36) (pol 4.43 -60.00 17.74)) (L (pol 14.28 -57.10 -43.47) (pol 10.13 -51.71 8.16)))(HJ (n raj1) (ax -96.74))(HJ (n raj2) (ax 3.52))(HJ (n raj3) (ax 91.98))(HJ (n raj4) (ax 0.06))(HJ (n laj1) (ax -105.97))(HJ (n laj2) (ax 10.74))(HJ (n laj3) (ax -92.03))(HJ (n laj4) (ax -3.61))(HJ (n rlj1) (ax -31.92))(HJ (n rlj2) (ax 3.48))(HJ (n rlj3) (ax -25.11))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -24.14))(HJ (n rlj6) (ax 4.01))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -16.22))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax -12.99))(HJ (n llj5) (ax -19.37))(HJ (n llj6) (ax -1.10))
+{Sun 13:38:36 Step:8024} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.21))(GS (sl 0) (sr 0) (t 31.74) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -2.38 9.41 -1.40))(HJ (n hj1) (ax -36.77))(HJ (n hj2) (ax -11.36))(HJ (n raj1) (ax -89.72))(HJ (n raj2) (ax 1.53))(HJ (n raj3) (ax 84.97))(HJ (n raj4) (ax 6.57))(HJ (n laj1) (ax -98.95))(HJ (n laj2) (ax 13.85))(HJ (n laj3) (ax -85.03))(HJ (n laj4) (ax -4.64))(HJ (n rlj1) (ax -38.94))(HJ (n rlj2) (ax 10.39))(HJ (n rlj3) (ax -25.02))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -17.19))(HJ (n rlj6) (ax 5.20))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -20.98))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax -6.17))(HJ (n llj5) (ax -12.40))(HJ (n llj6) (ax 6.76))
+{Sun 13:38:36 Step:8025} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.23))(GS (sl 0) (sr 0) (t 31.76) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -2.97 9.31 -0.83))(HJ (n hj1) (ax -33.27))(HJ (n hj2) (ax -10.90))(See (F2L (pol 10.14 -47.95 12.18)) (mypos -13.81 0.01 1.15) (myorien -82.70) (ballpos -12.80 -0.11 0.04) (L (pol 10.14 -47.76 12.49) (pol 3.96 -60.07 22.59)))(HJ (n raj1) (ax -89.04))(HJ (n raj2) (ax 1.09))(HJ (n raj3) (ax 84.77))(HJ (n raj4) (ax 5.96))(HJ (n laj1) (ax -97.35))(HJ (n laj2) (ax 12.73))(HJ (n laj3) (ax -84.83))(HJ (n laj4) (ax -4.22))(HJ (n rlj1) (ax -35.74))(HJ (n rlj2) (ax 10.02))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -11.78))(HJ (n rlj6) (ax 4.85))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -19.51))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax -12.24))(HJ (n llj5) (ax -7.47))(HJ (n llj6) (ax 6.74))
+{Sun 13:38:36 Step:8025} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8026} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.25))(GS (sl 0) (sr 0) (t 31.78) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -2.75 9.36 -1.01))(HJ (n hj1) (ax -29.77))(HJ (n hj2) (ax -10.44))(HJ (n raj1) (ax -88.37))(HJ (n raj2) (ax 0.99))(HJ (n raj3) (ax 84.57))(HJ (n raj4) (ax 5.35))(HJ (n laj1) (ax -95.76))(HJ (n laj2) (ax 11.62))(HJ (n laj3) (ax -84.63))(HJ (n laj4) (ax -3.80))(HJ (n rlj1) (ax -32.55))(HJ (n rlj2) (ax 9.67))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -6.38))(HJ (n rlj6) (ax 4.49))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -18.03))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax -18.32))(HJ (n llj5) (ax -2.59))(HJ (n llj6) (ax 6.74))
+{Sun 13:38:36 Step:8027} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1896.27))(GS (sl 0) (sr 0) (t 31.80) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -2.53 9.40 -1.20))(HJ (n hj1) (ax -26.41))(HJ (n hj2) (ax -9.94))(See (F2L (pol 10.14 -57.05 9.71)) (mypos -13.81 0.01 1.16) (myorien -87.02) (ballpos -12.80 -0.11 0.04) (L (pol 10.14 -57.33 9.82) (pol 7.25 -59.87 12.62)))(HJ (n raj1) (ax -87.61))(HJ (n raj2) (ax 0.57))(HJ (n raj3) (ax 84.34))(HJ (n raj4) (ax 5.42))(HJ (n laj1) (ax -93.96))(HJ (n laj2) (ax 10.42))(HJ (n laj3) (ax -84.40))(HJ (n laj4) (ax -3.40))(HJ (n rlj1) (ax -28.96))(HJ (n rlj2) (ax 9.25))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax -0.56))(HJ (n rlj6) (ax 4.03))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -16.19))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax -23.43))(HJ (n llj5) (ax 3.10))(HJ (n llj6) (ax 6.86))
+{Sun 13:38:36 Step:8027} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8028} World_Parser.py: Unknown root tag: bytearray(b'foul') at 64, 
+Msg: (time (now 1896.29))(GS (sl 0) (sr 0) (t 0.02) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a 0.00 0.00 9.81))(HJ (n hj1) (ax -23.06))(HJ (n hj2) (ax -9.43))(HJ (n raj1) (ax -86.86))(HJ (n raj2) (ax 0.24))(HJ (n raj3) (ax 84.12))(HJ (n raj4) (ax 5.49))(HJ (n laj1) (ax -92.17))(HJ (n laj2) (ax 9.21))(HJ (n laj3) (ax -84.17))(HJ (n laj4) (ax -3.00))(HJ (n rlj1) (ax -25.36))(HJ (n rlj2) (ax 8.84))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax 5.84))(HJ (n rlj6) (ax 3.58))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -14.34))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax -28.54))(HJ (n llj5) (ax 8.62))(HJ (n llj6) (ax 6.97))
+{Sun 13:38:36 Step:8029} World_Parser.py: Unknown root tag: bytearray(b'foul') at 64, 
+Msg: (time (now 1896.31))(GS (sl 0) (sr 0) (t 0.04) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a 0.02 0.19 9.81))(HJ (n hj1) (ax -23.06))(HJ (n hj2) (ax -9.43))(See (G2R (pol 28.02 19.29 6.89)) (G1R (pol 28.04 23.86 6.34)) (F1R (pol 29.72 41.23 3.79)) (F2R (pol 29.75 1.70 5.96)) (mypos -13.00 0.00 1.37) (myorien -21.43) (ballpos -12.80 -0.11 0.04) (L (pol 16.44 -15.98 3.49) (pol 16.45 58.48 -0.58)) (L (pol 29.72 1.97 5.99) (pol 29.80 41.23 3.80)) (L (pol 29.80 41.05 3.65) (pol 15.96 59.90 -0.69)) (L (pol 29.73 1.87 5.93) (pol 10.20 -60.04 -3.50)) (L (pol 26.41 28.21 4.57) (pol 26.41 14.83 5.27)) (L (pol 26.42 28.10 4.57) (pol 28.18 27.55 4.82)) (L (pol 26.40 15.01 4.95) (pol 28.15 15.36 5.44)) (L (pol 15.05 21.77 2.73) (pol 14.74 25.72 2.29)) (L (pol 14.73 25.78 2.27) (pol 13.81 29.05 1.67)) (L (pol 13.81 29.35 1.74) (pol 12.62 29.80 1.09)) (L (pol 12.60 30.00 1.04) (pol 11.52 27.08 0.80)) (L (pol 11.52 27.00 1.03) (pol 11.07 21.27 0.82)) (L (pol 11.09 20.98 0.85) (pol 11.52 15.67 1.36)) (L (pol 11.53 15.74 1.30) (pol 12.61 12.59 2.11)) (L (pol 12.62 12.85 1.81) (pol 13.79 13.22 2.61)) (L (pol 13.81 13.21 2.64) (pol 14.73 16.71 2.64)) (L (pol 14.72 16.66 2.65) (pol 15.07 21.31 2.60)))(HJ (n raj1) (ax -86.86))(HJ (n raj2) (ax 0.24))(HJ (n raj3) (ax 84.12))(HJ (n raj4) (ax 5.49))(HJ (n laj1) (ax -92.17))(HJ (n laj2) (ax 9.21))(HJ (n laj3) (ax -84.17))(HJ (n laj4) (ax -3.00))(HJ (n rlj1) (ax -25.36))(HJ (n rlj2) (ax 8.84))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax 5.84))(HJ (n rlj6) (ax 3.58))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -14.34))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax -28.54))(HJ (n llj5) (ax 8.62))(HJ (n llj6) (ax 6.97))
+{Sun 13:38:36 Step:8029} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8030} World_Parser.py: Unknown root tag: bytearray(b'foul') at 64, 
+Msg: (time (now 1896.33))(GS (sl 0) (sr 0) (t 0.02) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a 0.00 0.00 9.81))(HJ (n hj1) (ax -23.06))(HJ (n hj2) (ax -9.43))(HJ (n raj1) (ax -86.86))(HJ (n raj2) (ax 0.24))(HJ (n raj3) (ax 84.12))(HJ (n raj4) (ax 5.49))(HJ (n laj1) (ax -92.17))(HJ (n laj2) (ax 9.21))(HJ (n laj3) (ax -84.17))(HJ (n laj4) (ax -3.00))(HJ (n rlj1) (ax -25.36))(HJ (n rlj2) (ax 8.84))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax 5.84))(HJ (n rlj6) (ax 3.58))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -14.34))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax -28.54))(HJ (n llj5) (ax 8.62))(HJ (n llj6) (ax 6.97))
+{Sun 13:38:36 Step:8031} World_Parser.py: Unknown root tag: bytearray(b'foul') at 64, 
+Msg: (time (now 1896.35))(GS (sl 0) (sr 0) (t 0.04) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a 0.00 0.00 9.81))(HJ (n hj1) (ax -20.23))(HJ (n hj2) (ax -8.35))(See (G2R (pol 28.02 16.54 5.87)) (G1R (pol 28.01 21.27 5.91)) (F1R (pol 29.74 38.49 3.17)) (F2R (pol 29.75 -0.80 4.69)) (mypos -13.00 -0.00 1.38) (myorien -18.72) (ballpos -12.80 -0.11 0.04) (L (pol 16.42 -18.72 2.15) (pol 16.45 56.21 -1.01)) (L (pol 29.81 -0.75 4.88) (pol 29.77 38.52 3.13)) (L (pol 29.77 38.74 3.31) (pol 15.10 59.78 -1.73)) (L (pol 29.76 -0.85 4.79) (pol 10.27 -59.99 -3.87)) (L (pol 26.42 25.18 3.66) (pol 26.42 12.26 4.18)) (L (pol 26.41 25.20 3.74) (pol 28.22 24.79 4.01)) (L (pol 26.41 12.47 4.27) (pol 28.19 12.61 4.55)) (L (pol 15.05 18.94 1.86) (pol 14.71 23.26 1.51)) (L (pol 14.74 23.25 1.51) (pol 13.81 26.44 0.89)) (L (pol 13.81 26.32 1.07) (pol 12.61 27.19 0.20)) (L (pol 12.59 27.18 0.33) (pol 11.52 24.45 -0.27)) (L (pol 11.52 24.27 -0.07) (pol 11.08 18.59 -0.04)) (L (pol 11.09 18.57 -0.18) (pol 11.52 12.76 0.56)) (L (pol 11.53 12.86 0.33) (pol 12.60 10.04 1.14)) (L (pol 12.60 9.76 1.07) (pol 13.81 10.52 1.49)) (L (pol 13.81 11.13 1.59) (pol 14.72 14.18 1.94)) (L (pol 14.73 14.07 1.89) (pol 15.06 18.82 1.83)))(HJ (n raj1) (ax -87.13))(HJ (n raj2) (ax 0.19))(HJ (n raj3) (ax 84.74))(HJ (n raj4) (ax 4.91))(HJ (n laj1) (ax -91.76))(HJ (n laj2) (ax 8.09))(HJ (n laj3) (ax -84.78))(HJ (n laj4) (ax -2.63))(HJ (n rlj1) (ax -22.25))(HJ (n rlj2) (ax 7.83))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax 9.09))(HJ (n rlj6) (ax 3.14))(HJ (n llj1) (ax 0.89))(HJ (n llj2) (ax -12.59))(HJ (n llj3) (ax -25.00))(HJ (n llj4) (ax -32.45))(HJ (n llj5) (ax 11.48))(HJ (n llj6) (ax 6.22))
+{Sun 13:38:36 Step:8032} World_Parser.py: Unknown root tag: bytearray(b'foul') at 64, 
+Msg: (time (now 1896.37))(GS (sl 0) (sr 0) (t 0.06) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.02 0.17 9.81))(HJ (n hj1) (ax -17.40))(HJ (n hj2) (ax -7.27))(HJ (n raj1) (ax -87.40))(HJ (n raj2) (ax -0.16))(HJ (n raj3) (ax 85.36))(HJ (n raj4) (ax 4.32))(HJ (n laj1) (ax -91.35))(HJ (n laj2) (ax 6.97))(HJ (n laj3) (ax -85.40))(HJ (n laj4) (ax -2.27))(HJ (n rlj1) (ax -19.13))(HJ (n rlj2) (ax 6.82))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax 12.35))(HJ (n rlj6) (ax 2.71))(HJ (n llj1) (ax 0.78))(HJ (n llj2) (ax -10.85))(HJ (n llj3) (ax -24.98))(HJ (n llj4) (ax -36.35))(HJ (n llj5) (ax 14.34))(HJ (n llj6) (ax 5.46))
+{Sun 13:38:36 Step:8033} World_Parser.py: Unknown root tag: bytearray(b'foul') at 64, 
+Msg: (time (now 1896.39))(GS (sl 0) (sr 0) (t 0.08) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.05 0.35 9.80))(HJ (n hj1) (ax -14.56))(HJ (n hj2) (ax -6.19))(See (G2R (pol 28.03 8.05 3.64)) (G1R (pol 28.01 12.24 3.54)) (F1R (pol 29.75 29.60 1.24)) (F2R (pol 29.76 -9.39 2.27)) (mypos -13.00 -0.00 1.40) (myorien -10.21) (ballpos -12.80 -0.11 0.04) (L (pol 16.45 -27.38 -0.06) (pol 16.46 47.56 -1.99)) (L (pol 29.78 -9.22 2.33) (pol 29.80 29.84 1.43)) (L (pol 29.79 30.27 1.12) (pol 13.11 59.86 -4.17)) (L (pol 29.77 -9.44 2.36) (pol 10.67 -60.11 -4.29)) (L (pol 26.45 16.89 1.60) (pol 26.39 3.51 1.96)) (L (pol 26.43 16.71 1.50) (pol 28.16 16.15 1.75)) (L (pol 26.40 3.68 2.16) (pol 28.17 4.06 1.96)) (L (pol 15.05 10.16 -0.41) (pol 14.74 14.65 -0.89)) (L (pol 14.75 14.62 -0.95) (pol 13.81 18.24 -1.19)) (L (pol 13.82 17.86 -1.47) (pol 12.60 19.01 -1.88)) (L (pol 12.60 18.91 -1.84) (pol 11.51 16.08 -2.51)) (L (pol 11.54 15.88 -2.47) (pol 11.08 10.14 -2.24)) (L (pol 11.08 9.98 -2.23) (pol 11.53 4.40 -1.66)) (L (pol 11.53 4.24 -2.11) (pol 12.62 1.42 -1.56)) (L (pol 12.61 1.55 -1.44) (pol 13.82 2.32 -0.96)) (L (pol 13.85 1.83 -0.73) (pol 14.72 5.62 -0.71)) (L (pol 14.73 5.70 -0.29) (pol 15.07 10.20 -0.45)))(HJ (n raj1) (ax -87.67))(HJ (n raj2) (ax -0.17))(HJ (n raj3) (ax 85.99))(HJ (n raj4) (ax 3.74))(HJ (n laj1) (ax -90.94))(HJ (n laj2) (ax 5.85))(HJ (n laj3) (ax -86.01))(HJ (n laj4) (ax -1.90))(HJ (n rlj1) (ax -16.01))(HJ (n rlj2) (ax 5.81))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax 15.61))(HJ (n rlj6) (ax 2.27))(HJ (n llj1) (ax 0.67))(HJ (n llj2) (ax -9.10))(HJ (n llj3) (ax -18.88))(HJ (n llj4) (ax -40.25))(HJ (n llj5) (ax 17.20))(HJ (n llj6) (ax 4.71))
+{Sun 13:38:36 Step:8033} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Sun 13:38:36 Step:8034} World_Parser.py: Unknown root tag: bytearray(b'foul') at 64, 
+Msg: (time (now 1896.41))(GS (sl 0) (sr 0) (t 0.10) (pm PlayOn))(foul 4)(GYR (n torso) (rt 0.00 0.00 0.00))(ACC (n torso) (a -0.12 0.25 9.81))(HJ (n hj1) (ax -11.73))(HJ (n hj2) (ax -5.11))(HJ (n raj1) (ax -87.95))(HJ (n raj2) (ax -0.20))(HJ (n raj3) (ax 86.61))(HJ (n raj4) (ax 3.16))(HJ (n laj1) (ax -90.54))(HJ (n laj2) (ax 4.72))(HJ (n laj3) (ax -86.63))(HJ (n laj4) (ax -1.54))(HJ (n rlj1) (ax -12.90))(HJ (n rlj2) (ax 4.80))(HJ (n rlj3) (ax -25.00))(HJ (n rlj4) (ax 1.00))(HJ (n rlj5) (ax 18.87))(HJ (n rlj6) (ax 1.84))(HJ (n llj1) (ax 0.56))(HJ (n llj2) (ax -7.35))(HJ (n llj3) (ax -12.77))(HJ (n llj4) (ax -44.15))(HJ (n llj5) (ax 20.06))(HJ (n llj6) (ax 3.96))
+{Sun 13:38:36 Step:8038} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Sun 13:38:36 Step:8040} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8042} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8044} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8046} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8049} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:36 Step:8053} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Sun 13:38:36 Step:8057} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Sun 13:38:36 Step:8061} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Sun 13:38:36 Step:8064} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:36 Step:8066} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8068} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8070} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8074} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:36 Step:8076} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:36 Step:8078} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:37 Step:8078} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:37 Step:8620} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1908.14))(GS (sl 0) (sr 0) (t 11.42) (pm PlayOn))(foul 7)(GYR (n torso) (rt 8.01 2.10 6.39))(ACC (n torso) (a -1.46 10.66 -2.22))(HJ (n hj1) (ax -84.76))(HJ (n hj2) (ax -30.19))(HJ (n raj1) (ax -91.84))(HJ (n raj2) (ax 1.00))(HJ (n raj3) (ax 74.46))(HJ (n raj4) (ax 17.05))(HJ (n laj1) (ax -113.07))(HJ (n laj2) (ax -1.00))(HJ (n laj3) (ax -74.46))(HJ (n laj4) (ax -9.26))(HJ (n rlj1) (ax -22.85))(HJ (n rlj2) (ax -44.93))(HJ (n rlj3) (ax 98.78))(HJ (n rlj4) (ax -129.81))(HJ (n rlj5) (ax -44.93))(HJ (n rlj6) (ax 2.96))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -25.06))(HJ (n llj3) (ax 99.80))(HJ (n llj4) (ax 1.12))(HJ (n llj5) (ax -44.89))(HJ (n llj6) (ax 18.22))
+{Sun 13:38:37 Step:8770} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1911.14))(GS (sl 0) (sr 0) (t 14.42) (pm PlayOn))(foul 7)(GYR (n torso) (rt 13.80 4.56 11.95))(ACC (n torso) (a -2.26 10.84 -2.34))(HJ (n hj1) (ax -108.37))(HJ (n hj2) (ax -38.61))(HJ (n raj1) (ax -92.34))(HJ (n raj2) (ax 1.00))(HJ (n raj3) (ax 70.13))(HJ (n raj4) (ax 21.80))(HJ (n laj1) (ax -119.48))(HJ (n laj2) (ax -1.00))(HJ (n laj3) (ax -70.13))(HJ (n laj4) (ax -11.85))(HJ (n rlj1) (ax -29.18))(HJ (n rlj2) (ax -44.93))(HJ (n rlj3) (ax 98.78))(HJ (n rlj4) (ax -129.81))(HJ (n rlj5) (ax -44.93))(HJ (n rlj6) (ax 3.79))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -25.06))(HJ (n llj3) (ax 99.80))(HJ (n llj4) (ax 1.12))(HJ (n llj5) (ax -44.89))(HJ (n llj6) (ax 23.30))
+{Sun 13:38:37 Step:8920} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1914.15))(GS (sl 0) (sr 0) (t 17.42) (pm PlayOn))(foul 7)(GYR (n torso) (rt 17.04 5.24 12.51))(ACC (n torso) (a -2.10 10.76 -2.47))(HJ (n hj1) (ax -120.03))(HJ (n hj2) (ax -45.01))(HJ (n raj1) (ax -92.84))(HJ (n raj2) (ax 1.00))(HJ (n raj3) (ax 65.79))(HJ (n raj4) (ax 26.55))(HJ (n laj1) (ax -120.00))(HJ (n laj2) (ax -1.00))(HJ (n laj3) (ax -65.80))(HJ (n laj4) (ax -14.43))(HJ (n rlj1) (ax -35.52))(HJ (n rlj2) (ax -44.93))(HJ (n rlj3) (ax 98.78))(HJ (n rlj4) (ax -129.81))(HJ (n rlj5) (ax -44.93))(HJ (n rlj6) (ax 4.62))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -25.06))(HJ (n llj3) (ax 99.80))(HJ (n llj4) (ax 1.12))(HJ (n llj5) (ax -44.89))(HJ (n llj6) (ax 25.00))
+{Sun 13:38:37 Step:8949} World_Parser.py: Received field line with NaNs [  nan   nan   nan 15.14 59.94 28.75]
+{Sun 13:38:37 Step:9070} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1917.15))(GS (sl 0) (sr 0) (t 20.42) (pm PlayOn))(foul 7)(GYR (n torso) (rt 12.83 5.43 15.14))(ACC (n torso) (a -2.03 11.20 -2.55))(HJ (n hj1) (ax -120.03))(HJ (n hj2) (ax -45.01))(HJ (n raj1) (ax -93.34))(HJ (n raj2) (ax 1.00))(HJ (n raj3) (ax 61.46))(HJ (n raj4) (ax 31.29))(HJ (n laj1) (ax -120.00))(HJ (n laj2) (ax -1.00))(HJ (n laj3) (ax -61.46))(HJ (n laj4) (ax -17.01))(HJ (n rlj1) (ax -41.85))(HJ (n rlj2) (ax -44.93))(HJ (n rlj3) (ax 98.78))(HJ (n rlj4) (ax -129.81))(HJ (n rlj5) (ax -44.93))(HJ (n rlj6) (ax 5.46))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -25.06))(HJ (n llj3) (ax 99.80))(HJ (n llj4) (ax 1.12))(HJ (n llj5) (ax -44.89))(HJ (n llj6) (ax 25.00))
+{Sun 13:38:37 Step:9191} Server_Comm.py: The agent lost 1112 consecutive packets! Is syncmode disabled?
+{Sun 13:38:37 Step:9191} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9194} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:37 Step:9194} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9196} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:37 Step:9196} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:37 Step:9198} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:37 Step:9198} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:37 Step:9200} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:37 Step:9200} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9204} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Sun 13:38:37 Step:9204} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:37 Step:9206} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:37 Step:9206} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:37 Step:9207} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9210} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:37 Step:9210} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9211} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9216} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Sun 13:38:37 Step:9216} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9218} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:37 Step:9218} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9220} World_Parser.py: Unknown root tag: bytearray(b'foul') at 65, 
+Msg: (time (now 1920.15))(GS (sl 0) (sr 0) (t 23.42) (pm PlayOn))(foul 7)(GYR (n torso) (rt 4.39 2.17 6.24))(ACC (n torso) (a -1.32 10.86 -2.92))(HJ (n hj1) (ax -120.03))(HJ (n hj2) (ax -45.01))(HJ (n raj1) (ax -93.84))(HJ (n raj2) (ax 1.00))(HJ (n raj3) (ax 57.13))(HJ (n raj4) (ax 36.04))(HJ (n laj1) (ax -120.00))(HJ (n laj2) (ax -1.00))(HJ (n laj3) (ax -57.13))(HJ (n laj4) (ax -19.60))(HJ (n rlj1) (ax -48.19))(HJ (n rlj2) (ax -44.93))(HJ (n rlj3) (ax 98.78))(HJ (n rlj4) (ax -129.81))(HJ (n rlj5) (ax -44.93))(HJ (n rlj6) (ax 6.29))(HJ (n llj1) (ax 1.00))(HJ (n llj2) (ax -25.06))(HJ (n llj3) (ax 99.80))(HJ (n llj4) (ax 1.12))(HJ (n llj5) (ax -44.89))(HJ (n llj6) (ax 25.00))
+{Sun 13:38:37 Step:9220} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:37 Step:9220} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9221} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9224} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:37 Step:9224} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:37 Step:9225} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9228} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:37 Step:9228} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9231} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:37 Step:9231} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9233} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:37 Step:9233} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9235} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:37 Step:9235} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9237} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:37 Step:9237} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9238} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9240} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:37 Step:9240} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:37 Step:9241} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9246} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Sun 13:38:37 Step:9246} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9249} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:37 Step:9249} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:37 Step:9251} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9251} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9253} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9253} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9255} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9255} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9258} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:38 Step:9258} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9260} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9260} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9262} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9262} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9263} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9266} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:38 Step:9266} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9268} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9268} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9270} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9270} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9272} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9272} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9273} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9275} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9275} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9277} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9277} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9279} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9279} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9280} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9282} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9282} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9283} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9285} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9285} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9287} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9287} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9288} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9290} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9290} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:38 Step:9291} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9294} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:38 Step:9294} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9296} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9296} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9298} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9298} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9300} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9300} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9301} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:38 Step:9304} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:38 Step:9308} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:38 Step:9310} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9312} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9314} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9316} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9320} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:38 Step:9322} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9325} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9328} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:38 Step:9330} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9332} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9336} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:38 Step:9338} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:38 Step:9340} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:39 Step:9340} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:39 Step:10102} Server_Comm.py: The agent lost 761 consecutive packets! Is syncmode disabled?
+{Sun 13:38:39 Step:10102} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:39 Step:10104} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:39 Step:10104} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:39 Step:10105} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:39 Step:10107} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:39 Step:10107} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:39 Step:10108} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:39 Step:10110} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:39 Step:10110} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:39 Step:10112} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:39 Step:10112} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:39 Step:10115} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:39 Step:10115} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:39 Step:10116} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:39 Step:10122} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:39 Step:10125} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:39 Step:10127} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:39 Step:10130} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:39 Step:10134} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:39 Step:10136} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:39 Step:10138} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:39 Step:10141} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:39 Step:10144} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:39 Step:10146} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:39 Step:10148} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:39 Step:10151} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:39 Step:10157} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Sun 13:38:39 Step:10163} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Sun 13:38:39 Step:10169} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Sun 13:38:39 Step:10175} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Sun 13:38:39 Step:10180} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10180} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:40 Step:10906} Server_Comm.py: The agent lost 725 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10906} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10908} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10908} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10910} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10910} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10913} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10913} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10918} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10918} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:40 Step:10920} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10920} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10921} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10924} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10924} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10927} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10927} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10930} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10930} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10931} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10934} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10934} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10937} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10937} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10940} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10940} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10941} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10944} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10944} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10945} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:10948} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10952} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10954} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10958} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10960} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10963} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10965} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10968} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10970} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10973} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10976} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10978} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10980} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10983} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10986} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10988} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10990} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:10994} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:10994} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:40 Step:11178} Server_Comm.py: The agent lost 183 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:11178} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11180} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:11180} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:40 Step:11181} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11182} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11183} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11184} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11185} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11186} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11187} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11188} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11189} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11190} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11191} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11192} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11193} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11194} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:40 Step:11195} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11196} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:40 Step:11197} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:40 Step:11204} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:11208} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:11210} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:11212} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:11214} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:11218} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:11220} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:11222} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:11226} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:11229} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:11232} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:40 Step:11234} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:40 Step:11238} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:41 Step:11238} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:41 Step:12273} Server_Comm.py: The agent lost 1034 consecutive packets! Is syncmode disabled?
+{Sun 13:38:41 Step:12273} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:41 Step:12274} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:41 Step:12276} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:41 Step:12276} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:41 Step:12277} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:41 Step:12278} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:41 Step:12280} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12326} Server_Comm.py: The agent lost 44 consecutive packets! Is syncmode disabled?
+{Sun 13:38:42 Step:12326} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12327} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12330} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:42 Step:12330} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:38:42 Step:12331} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12334} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:42 Step:12334} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12336} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12336} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12337} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12340} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:42 Step:12340} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12342} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12342} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12343} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12345} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12345} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12348} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:42 Step:12348} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12350} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12350} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12351} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12353} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12353} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12354} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12355} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12357} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12357} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12358} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12359} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12360} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12362} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12362} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12363} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12364} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:38:42 Step:12366} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12371} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12374} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:42 Step:12376} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12378} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12382} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:42 Step:12384} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12386} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12388} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12390} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12392} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 13:38:42 Step:12396} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:42 Step:12400} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:42 Step:12403} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Sun 13:38:42 Step:12407} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Sun 13:38:42 Step:12411} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Sun 13:38:42 Step:12415} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?

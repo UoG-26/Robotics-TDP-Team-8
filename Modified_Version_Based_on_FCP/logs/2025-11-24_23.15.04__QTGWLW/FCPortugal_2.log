@@ -1,0 +1,4 @@
+{Mon 23:15:04 Step:538} Server_Comm.py: Received a new packet while thinking!
+{Mon 23:15:27 Step:1651} World_Parser.py: Received field line with NaNs [   nan    nan    nan   2.14 -59.9    3.67]
+{Mon 23:19:04 Step:12091} World_Parser.py: Received field line with NaNs [   nan    nan    nan  14.19 -60.39  17.18]
+{Mon 23:22:05 Step:20785} World_Parser.py: Received field line with NaNs [   nan    nan    nan   1.62 -59.95  -3.06]

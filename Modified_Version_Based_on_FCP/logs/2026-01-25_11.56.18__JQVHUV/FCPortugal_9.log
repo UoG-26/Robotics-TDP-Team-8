@@ -1,0 +1,8 @@
+{Sun 11:56:18 Step:6409} World_Parser.py: Received field line with NaNs [ 4.67 55.01 14.83   nan   nan   nan]
+{Sun 11:57:56 Step:11185} World_Parser.py: Received field line with NaNs [   nan    nan    nan  11.95 -60.18  12.75]
+{Sun 13:01:52 Step:197925} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:01:52 Step:197949} Server_Comm.py: The agent lost 23 consecutive packets! Is syncmode disabled?
+{Sun 13:11:54 Step:227185} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:15:55 Step:238875} Server_Comm.py: Received a new packet while thinking!
+{Sun 13:26:00 Step:268254} Server_Comm.py: Received a new packet while on world.update()!
+{Sun 13:34:51 Step:294073} Server_Comm.py: Received a new packet while on world.update()!

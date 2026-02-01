@@ -1,0 +1,21 @@
+{Mon 00:10:55 Step:927} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:10:55 Step:931} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 00:11:45 Step:3349} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:12:07 Step:4413} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:12:20 Step:5079} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:12:34 Step:5752} World_Parser.py: Received field line with NaNs [   nan    nan    nan   2.18 -60.01  -1.43]
+{Mon 00:12:50 Step:6510} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:13:10 Step:7489} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:13:10 Step:7491} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:13:17 Step:7875} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:13:17 Step:7877} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 00:13:17 Step:7877} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 00:13:17 Step:7879} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 00:13:17 Step:7880} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:13:18 Step:7882} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 00:13:18 Step:7885} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 00:13:53 Step:9616} World_Parser.py: Received field line with NaNs [19.97  0.89  8.48   nan   nan   nan]
+{Mon 00:13:53 Step:9627} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:13:54 Step:9694} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:13:57 Step:9829} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:14:16 Step:10770} Server_Comm.py: Received a new packet while thinking!

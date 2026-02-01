@@ -1,0 +1,23 @@
+{Sun 12:03:46 Step:42826} World_Parser.py: Received field line with NaNs [ 2.53 33.82 18.36   nan   nan   nan]
+{Sun 12:28:12 Step:114039} Server_Comm.py: Received a new packet while thinking!
+{Sun 12:30:24 Step:120460} Server_Comm.py: Received a new packet while thinking!
+{Sun 12:35:52 Step:136432} World_Parser.py: Received field line with NaNs [ 2.38 31.51 19.77   nan   nan   nan]
+{Sun 12:44:14 Step:160849} World_Parser.py: Received field line with NaNs [   nan    nan    nan   2.15 -60.04   5.22]
+{Sun 13:04:17 Step:219424} World_Parser.py: Received field line with NaNs [  nan   nan   nan  0.88  3.56 59.95]
+{Sun 13:16:23 Step:254767} World_Parser.py: Received field line with NaNs [   nan    nan    nan   2.16 -59.97   3.67]
+{Sun 13:37:44 Step:317137} World_Parser.py: Received field line with NaNs [ 2.81 39.78 19.19   nan   nan   nan]
+{Sun 13:53:39 Step:363604} World_Parser.py: Received field line with NaNs [   nan    nan    nan   2.19 -60.12   3.35]
+{Sun 13:54:02 Step:364753} World_Parser.py: Received field line with NaNs [   nan    nan    nan   2.31 -60.11   3.01]
+{Sun 14:04:03 Step:394015} World_Parser.py: Received field line with NaNs [  0.55  16.56 -34.15    nan    nan    nan]
+{Sun 14:07:35 Step:404344} World_Parser.py: Received field line with NaNs [  0.5  -19.83 -52.38    nan    nan    nan]
+{Sun 14:12:28 Step:418576} World_Parser.py: Received field line with NaNs [   nan    nan    nan   3.24 -59.79  15.57]
+{Sun 14:33:27 Step:479890} World_Parser.py: Received field line with NaNs [   nan    nan    nan   2.18 -59.97  -1.24]
+{Sun 14:33:38 Step:480442} Server_Comm.py: Received a new packet while thinking!
+{Sun 14:37:08 Step:490687} World_Parser.py: Received field line with NaNs [ 2.27 30.29 17.54   nan   nan   nan]
+{Sun 14:41:58 Step:504784} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Sun 14:42:29 Step:506323} World_Parser.py: Received field line with NaNs [ 3.   43.22 18.55   nan   nan   nan]
+{Sun 14:48:11 Step:522961} World_Parser.py: Received field line with NaNs [  0.5    9.39 -43.59    nan    nan    nan]
+{Sun 14:49:46 Step:527602} Server_Comm.py: Received a new packet while thinking!
+{Sun 14:57:01 Step:548797} World_Parser.py: Received field line with NaNs [ 3.21 42.65  0.36   nan   nan   nan]
+{Sun 14:58:12 Step:552232} World_Parser.py: Received field line with NaNs [ 3.12 44.45 16.1    nan   nan   nan]
+{Sun 15:04:29 Step:570520} World_Parser.py: Received field line with NaNs [ 2.27 30.6  17.81   nan   nan   nan]

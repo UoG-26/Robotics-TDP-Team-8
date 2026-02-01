@@ -1,0 +1,441 @@
+{Mon 01:07:36 Step:2} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:36 Step:2} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:10} Server_Comm.py: The agent lost 7 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:10} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:11} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:17} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:17} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:20} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:20} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:22} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:36 Step:25} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:36 Step:28} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:30} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:36 Step:30} Server_Comm.py: Received a new packet while thinking!
+{Mon 01:07:36 Step:716} Server_Comm.py: The agent lost 685 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:716} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:726} Server_Comm.py: The agent lost 9 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:726} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:730} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:730} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:736} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:736} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:738} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:36 Step:738} Server_Comm.py: Received a new packet while thinking!
+{Mon 01:07:36 Step:739} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:750} Server_Comm.py: The agent lost 10 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:750} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:754} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:754} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:758} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:758} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:762} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:762} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:766} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:766} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:769} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:36 Step:769} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:36 Step:778} Server_Comm.py: The agent lost 8 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:781} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:785} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:787} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:790} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:801} Server_Comm.py: The agent lost 10 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:806} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:808} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:810} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:812} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:816} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:819} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:823} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:828} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:830} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:832} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:836} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:840} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:842} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:844} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:846} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:850} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:852} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:854} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:856} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:860} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:873} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:881} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:897} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:905} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:915} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:925} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:928} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:930} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:937} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:941} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:944} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:946} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:948} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:953} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:956} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:958} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:960} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:965} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:967} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:969} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:972} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:985} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:988} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1005} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1011} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1031} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1050} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1052} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1055} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1062} Server_Comm.py: The agent lost 6 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1068} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1079} Server_Comm.py: The agent lost 10 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1085} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1089} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1094} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1096} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1098} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1102} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1104} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1106} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1108} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1112} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1114} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1116} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1120} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1122} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1124} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1126} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1131} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1136} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1139} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1141} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1145} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1148} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1165} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1173} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1195} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1209} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1211} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1214} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1229} Server_Comm.py: The agent lost 14 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1239} Server_Comm.py: The agent lost 9 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1245} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1251} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1254} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1257} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1259} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1261} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1263} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1265} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1267} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1269} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1273} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1277} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1279} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1294} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1296} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1298} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1307} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1313} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1315} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1327} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1333} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1352} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1354} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1357} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1360} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1362} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1370} Server_Comm.py: The agent lost 6 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1374} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1377} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1381} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1385} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1389} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1394} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1397} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1401} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1403} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1407} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1410} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1412} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1415} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1418} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1423} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1427} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1431} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1435} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1437} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1447} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1457} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1461} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1467} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1469} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1477} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1485} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1500} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1513} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1516} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1523} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1528} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1531} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1534} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1539} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1543} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1546} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1549} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1551} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1555} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1559} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1563} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1568} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1570} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1572} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1577} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1581} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1585} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1588} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1590} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1592} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1597} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1602} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1605} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1609} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1614} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1616} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1620} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1625} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1629} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1632} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1635} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1639} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1643} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1647} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1651} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1656} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1659} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1662} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1664} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1668} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1672} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1675} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1679} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1682} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1685} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1689} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1715} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1719} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1741} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1745} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1749} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1752} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1758} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1762} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1765} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1768} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1773} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1777} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1781} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1785} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1789} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1793} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1797} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1800} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1800} Server_Comm.py: Received a new packet while thinking!
+{Mon 01:07:37 Step:1935} Server_Comm.py: The agent lost 134 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1950} Server_Comm.py: The agent lost 14 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1954} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1956} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1959} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1962} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1973} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1975} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1979} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1982} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1989} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1992} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:1994} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:1996} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2001} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2005} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2010} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2015} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2023} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2027} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2029} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2035} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2056} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2063} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2067} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2072} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2079} Server_Comm.py: The agent lost 6 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2085} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2091} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2096} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2099} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2101} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2103} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2107} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2109} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2131} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2153} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2157} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2169} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2181} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2189} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2192} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2196} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2198} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2204} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2207} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2211} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2214} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2218} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2220} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2222} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2224} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2228} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2230} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2232} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2237} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2240} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2242} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2249} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2257} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2263} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2275} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2279} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2283} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2287} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2290} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2297} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2305} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2309} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2311} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2313} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2317} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2321} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2327} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2334} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2341} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2346} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2348} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2350} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2352} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2357} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2361} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2364} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:37 Step:2366} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:37 Step:2370} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2370} Server_Comm.py: Received a new packet while thinking!
+{Mon 01:07:38 Step:2539} Server_Comm.py: The agent lost 168 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2539} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:38 Step:2541} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2541} Server_Comm.py: Received a new packet while thinking!
+{Mon 01:07:38 Step:2542} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:38 Step:2543} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:38 Step:2544} Server_Comm.py: Received a new packet while thinking!
+{Mon 01:07:38 Step:2545} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:38 Step:2546} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:38 Step:2547} Server_Comm.py: Received a new packet while thinking!
+{Mon 01:07:38 Step:2548} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:38 Step:2549} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:38 Step:2550} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:38 Step:2551} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:38 Step:2552} Server_Comm.py: Received a new packet while on world.update()!
+{Mon 01:07:38 Step:2569} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2573} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2581} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2583} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2587} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2589} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2595} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2630} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2632} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2635} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2646} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2650} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2652} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2657} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2662} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2665} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2669} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2673} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2677} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2681} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2685} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2688} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2690} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2692} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2694} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2697} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2699} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2701} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2703} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2705} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2708} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2711} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2719} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2725} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2731} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2735} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2738} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2743} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2745} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2749} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2752} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2755} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2761} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2765} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2767} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2771} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2785} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2789} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2793} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2797} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2799} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2802} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2808} Server_Comm.py: The agent lost 5 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2812} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2815} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2818} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2820} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2825} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2828} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2831} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2834} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2836} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2838} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2843} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2848} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2851} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2854} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2856} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2860} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2862} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2864} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2866} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2876} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2887} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2905} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2909} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2917} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2928} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2937} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2939} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2942} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2944} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:2980} Server_Comm.py: The agent lost 34 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2992} Server_Comm.py: The agent lost 11 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:2997} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:3000} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:3003} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:3006} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:3009} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:3011} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:3014} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Mon 01:07:38 Step:3016} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 01:07:38 Step:3016} Server_Comm.py: Received a new packet while thinking!

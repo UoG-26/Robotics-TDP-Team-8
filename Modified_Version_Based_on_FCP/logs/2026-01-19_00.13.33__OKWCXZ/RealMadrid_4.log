@@ -1,0 +1,12 @@
+{Mon 00:13:33 Step:604} World_Parser.py: Received field line with NaNs [   nan    nan    nan   2.2  -59.86   4.05]
+{Mon 00:14:04 Step:2095} World_Parser.py: Received field line with NaNs [   nan    nan    nan   4.2  -59.93  14.08]
+{Mon 00:15:33 Step:6553} World_Parser.py: Received field line with NaNs [   nan    nan    nan  11.33 -60.    19.45]
+{Mon 00:16:18 Step:8778} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:16:18 Step:8780} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 00:16:19 Step:8788} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 00:16:19 Step:8790} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:16:19 Step:8794} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 00:16:19 Step:8803} Server_Comm.py: Received a new packet while thinking!
+{Mon 00:16:24 Step:9043} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Mon 00:16:36 Step:9661} World_Parser.py: Received field line with NaNs [ 7.74 57.01 21.44   nan   nan   nan]
+{Mon 00:17:37 Step:12700} World_Parser.py: Received field line with NaNs [  3.78 -49.96  18.87    nan    nan    nan]

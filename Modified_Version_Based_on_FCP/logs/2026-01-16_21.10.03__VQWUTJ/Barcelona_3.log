@@ -1,0 +1,7 @@
+{Fri 21:11:04 Step:3138} Server_Comm.py: Received a new packet while thinking!
+{Fri 21:11:19 Step:3826} Server_Comm.py: Received a new packet while thinking!
+{Fri 21:11:42 Step:4909} Server_Comm.py: Received a new packet while thinking!
+{Fri 21:11:42 Step:4912} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Fri 21:14:28 Step:12801} Server_Comm.py: Received a new packet while thinking!
+{Fri 21:14:57 Step:14179} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Fri 21:16:15 Step:17860} World_Parser.py: Received field line with NaNs [ 11.73  21.66 -57.68    nan    nan    nan]
