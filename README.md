@@ -26,7 +26,7 @@ For testing the physical Humanoid Robots, we have to use the python script funct
 Choregraphe is a desktop application from SoftBank Robotics (Aldebaran) designed for programming, controlling, and simulating NAO and Pepper robots without necessarily needing to write code. 
 ## What we can do with Choregraphe:
 
-<img width="604" height="329" alt="image" src="https://github.com/user-attachments/assets/7c0a5e72-69fa-4fa8-9a0a-5fc8fd8d6d5c" />
+<img width="483" height="263" alt="image" src="https://github.com/user-attachments/assets/7c0a5e72-69fa-4fa8-9a0a-5fc8fd8d6d5c" />
 
 ### Create Robot Behaviors & Animations 
 - Drag-and-Drop Programming: Use pre-defined boxes from the library (speech, movement, interaction) to create complex behaviors.
