@@ -1,5 +1,5 @@
 # Note1
-This is a 4v4 demostration based on FCP, please run
+This is a 4v4 demostration based on FCP, please run the Code below on terminal👇
 
 cd ~/"Your Dir Path"
 source ~/.venvs/fcp/bin/activate
