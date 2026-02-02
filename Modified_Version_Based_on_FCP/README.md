@@ -12,4 +12,4 @@ By the way, if you want to change the Team name, please modify this part "Team8"
 In addition, "localhost 3100" means I set the port:3100 as Server Communication port, 3200 as Monitor port using Roboviz
 
 # Note3
-Finally, there're a lot of details I don't show in my script. I suggest you read the Original official content from https://github.com/m-abr/FCPCodebase. Should you have any question, please feel free to contact me or submit the Issue on the top.
+Finally, there're a lot of details I don't show in my script. I suggest you read the Original official content as well as Pre-requisite from https://github.com/m-abr/FCPCodebase. Should you have any question, please feel free to contact me or submit the Issue on the top.
