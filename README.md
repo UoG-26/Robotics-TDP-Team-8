@@ -1,7 +1,7 @@
 
 <img width="396" height="366" alt="11" src="https://github.com/user-attachments/assets/9af5bbad-de34-443f-b64c-054a59a837d8" />
 
-**Introduction:** 
+## Introduction: 
 implementation of RoboCup Soccer Simulator
 
 The development on robots may be severely limited by the constrained resources.
@@ -17,10 +17,10 @@ After that, we will describe the development of physical robots using **Choregra
 
 <img width="1180" height="669" alt="image" src="https://github.com/user-attachments/assets/e668bda1-1f0f-46c7-9528-75b1b2104920" />
 
-**Physical Hardware Simulation**
+## Physical Hardware Simulation:
 
 For testing the physical Humanoid Robots, we have to use the python script functions to Choregraph as a linking process for creating physical and well tested movements in a given workspace.
-**SimSpark** allow to develop major required motions, team communication, path finding as well as enforce AI by leveraging Reinforcement Learning for Working Robots. 
+##SimSpark allow to develop major required motions, team communication, path finding as well as enforce AI by leveraging Reinforcement Learning for Working Robots. 
 
 
 <img width="172" height="380" alt="Code" src="https://github.com/user-attachments/assets/4335e22e-840a-4d54-bc9c-ec19b3b5815e" />
